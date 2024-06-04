@@ -7,7 +7,7 @@
 * ### By segregating data availability workflows into distinct publishing and storage lanes, 0G optimizes scalability through efficient partitioning while ensuring data availability through consensus-based sampling, mitigating broadcasting bottlenecks. 
 
 * ### Its incentive-based storage mechanism fosters network participation, promoting scalability and enabling support for diverse data types across Layer 2 networks and decentralized AI platforms. network.
-
+* ### Its incentive-based 
 <div align="center">
   <a href="https://0g.ai/"><img src="https://github.com/bartosian/celestia-tools/assets/20209819/85aaef48-7ea4-4857-b339-985645c6850c" alt="0G Website" width="16%"></a>
   <a href="https://github.com/0glabs"><img src="https://github.com/bartosian/celestia-tools/assets/20209819/229ec400-72ff-48ee-ac18-7bdb1f5e221a" alt="0G Github" width="16%"></a>
